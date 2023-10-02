@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f767d8384a29747823fb7b57426bf4, type: 3}
+  m_Name: SpiritNpc
+  m_EditorClassIdentifier: 
+  dialouge:
+  - 'Spirit: Gordian!!!'
+  - 'Gordion: What in the -
+
+'
+  - 'Spirit: I don''t have much time to explain the situation He will find out if
+    I do  Use Qamata to Go through the path ahead.'
+  - 'Elder: Qamata?'
+  - 'Gordion: You know what that means?'
+  - "Elder: It's a name I haven\u2019t heard in a long time Its an ancient mystic
+    language that spellcasters of the past used to wield powerful magic.That is what
+    I used to get here."
+  - 'Elder: Qamata is a language that uses only three letters.
+
+'
+  - 'Gordion: 3 Letters? Doesn''t that mean I can cast spells by accident?
+
+'
+  - 'Elder: Only wizards who can understand the true meaning of each spell can wield'
+  responses: []

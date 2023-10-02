@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f767d8384a29747823fb7b57426bf4, type: 3}
+  m_Name: M_NPC_Hill
+  m_EditorClassIdentifier: 
+  dialouge:
+  - 'Man: Welcome young one.'
+  - 'Gordion: Hello kind sir.'
+  - 'Man: Spoken like a knight Do you belong to the royal guard? You sound like one.'
+  - "Gordion: I said what I felt in my heart.  (Royal guard\u2026.why does that sound
+    familiar)."
+  responses: []

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f767d8384a29747823fb7b57426bf4, type: 3}
+  m_Name: Eld_NPC_2
+  m_EditorClassIdentifier: 
+  dialouge:
+  - 'Gordion: This has to be a dream No way I just saw a blue fairy tell me about
+    something called Qamata and just disappear.
+
+'
+  - 'Elder: Qamata?'
+  - 'Gordion: You know what that means?'
+  - "Elder: It's a name I haven\u2019t heard in a long time"
+  - 'Elder: Its an ancient mystic language that spellcasters of the past used to
+    wield powerful magic.That is what I used to get here.
+
+'
+  - 'Gordion: Magic? That blue fairy wanted me to use magic???
+
+'
+  - "Elder: Blue fairy\u2026So you came in contact with a divine spirit.  \r\n"
+  - 'Elder: I guess it is only right for me to guide you in your path. Qamata is
+    a language that uses only three letters.'
+  - 'Gordion: 3 Letters?  Doesn''t that mean I can cast spells by accident?
+
+'
+  - "Elder: Here\u2019s how you wield the first spell  Mataqa. The rock summon. 
+    Believe in your power to summon a rock."
+  - 'Elder:  Now stand in front of the switch and use the spell
+
+'
+  responses: []

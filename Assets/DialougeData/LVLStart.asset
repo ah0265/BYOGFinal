@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f767d8384a29747823fb7b57426bf4, type: 3}
+  m_Name: LVLStart
+  m_EditorClassIdentifier: 
+  dialouge:
+  - Argh..My head hurts
+  - ' I can''t remember anything'
+  - Where am I?
+  - ' Better question..Who am I?'
+  - ' I remember a name ... .Gordian. Yeah, that''s my name'
+  - "That's all I am able to remember. I\u2019ll maybe ask around to see where I
+    am."
+  - (WASD-move, SpaceBar-Attack)
+  - "Controls for summoning spells: \nJ - Qa, I - Ma, L - Ta\n "
+  responses: []

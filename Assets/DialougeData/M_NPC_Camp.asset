@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f767d8384a29747823fb7b57426bf4, type: 3}
+  m_Name: M_NPC_Camp
+  m_EditorClassIdentifier: 
+  dialouge:
+  - 'Woman: Its a peaceful life. Hunt, come back home, get the necessities, cook,
+    eat.'
+  - 'Gordion: It truly is.
+
+'
+  - 'Woman: What brings you here traveller?
+
+'
+  - 'Gordion: I am here to find out who I am'
+  - 'Man: Ah yes. The path of destiny. I wish you luck on your travels my friend
+
+'
+  - 'Elder: Qamata'
+  - 'Gordion:H..how did you know?
+
+'
+  - Elder:An experienced user in Qamata will be able to spot one of his own.
+  - "Gordion:Th\u2026thank you?"
+  - "Elder: I don't know why. Call it gut instinct. But will you let me teach you
+    the dash spell?\r"
+  - Gordion:I will be the most grateful
+  - 'Elder: In that case. Listen well, young one/ Qataqa. Quick Feet. It will help
+    you move fast for a short burst of time.'
+  - 'Gordion: Thank you good sir
+
+'
+  - ' Man: I wish you good fortune in your journey.'
+  responses: []
